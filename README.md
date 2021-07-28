@@ -10,8 +10,8 @@ This project contains different JavaScript katas I've been doing at https://www.
 5. [FAQs](#faqs)
 
 ### 1. General Info
-#### 001sum - no link
-#### 002
+#### 001sum
+#### 002multiply
 #### 003
 #### 004
 #### 005 -
