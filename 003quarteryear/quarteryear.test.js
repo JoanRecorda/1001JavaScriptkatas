@@ -1,11 +1,5 @@
-const chai = require("chai");
-const assert = chai.assert;
-chai.config.truncateThreshold=0;
+const quarterOf = require('./quarteryear');
 
-describe("Basic Tests", () =>{
-    it("Testing for fixed tests", () => {
-        assert.strictEqual(quarterOf(3), 1)
-        assert.strictEqual(quarterOf(8), 3)
-        assert.strictEqual(quarterOf(11), 4)
-    });
-});
+test('given a month, return to which quarter of the year it belongs', () => {
+    expect(quarterOf(6)).toBe(2);
+})
