@@ -12,11 +12,14 @@ This project contains different JavaScript katas I've been doing at https://www.
 ### 1. General Info
 #### 001sum
 #### 002multiply
-#### 003
-#### 004
+#### 003quarteryear
+#### 004removeexclamation
 #### 005 -
 #### 006 -
-
+#### 007 -
+#### 008 -
+#### 009 -
+#### 010
 
 ### 2. Technologies
 
