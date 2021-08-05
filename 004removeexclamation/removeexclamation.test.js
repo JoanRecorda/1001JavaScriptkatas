@@ -1,5 +1,5 @@
-const removeExclamationMarks = require('./removeexclamation');
+const removeExclMarks = require('./removeexclamation');
 
 test('given an array remove exclamation marks', () => {
-    expect(removeExclamationMarks("Hello World!")).toBe("Hello World");
+    expect(removeExclMarks("Hola Dr!")).toBe("Hola Dr");
 })

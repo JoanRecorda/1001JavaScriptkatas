@@ -23,12 +23,20 @@ This project contains different JavaScript katas I've been doing at https://www.
 
 ### 2. Technologies
 
-#### Basically it's been using vanilla's javascript
+Basically it has been used vanilla's JavaScript with the test runner Jest
+
+Jest is a JavaScript library for creating, running and structuring tests (https://jestjs.io/).
+
+It has been applied the following methods:
+
+003 Math.ceil method (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
+
+004 replace method performing a global search (//g, '') (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
 
 ### 3. Installation
 
-#### Nothing to comment
+NPM package and Jest library
 
 
 ### 4. Collaboration

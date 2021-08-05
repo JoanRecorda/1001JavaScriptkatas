@@ -1,4 +1,4 @@
-function removeExclamationMarks(s) {
+function removeExclMarks(s) {
     return s.replace(/!/g,'');
 }
-module.exports = removeExclamationMarks;
+module.exports = removeExclMarks;

@@ -1,4 +1,4 @@
-const quarterOf = (month) => {
+const quarterOfYear = (month) => {
     return Math.ceil(month / 3);
 }
-module.exports = quarterOf;
+module.exports = quarterOfYear;
