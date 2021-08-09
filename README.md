@@ -33,6 +33,7 @@ It has been applied the following methods:
 
 004 "replace method" performing a global search (//g, '') - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
+005 "Math.ceil method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 
 ### 3. Installation
 
