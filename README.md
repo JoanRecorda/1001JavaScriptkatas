@@ -14,7 +14,7 @@ This project contains different JavaScript katas I've been doing at https://www.
 #### 002multiply
 #### 003quarteryear
 #### 004removeexclamation
-#### 005 -
+#### 005centuryfromyear
 #### 006 -
 #### 007 -
 #### 008 -
