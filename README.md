@@ -29,9 +29,9 @@ Jest is a JavaScript library for creating, running and structuring tests (https:
 
 It has been applied the following methods:
 
-003 Math.ceil method (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
+003 "Math.ceil method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 
-004 replace method performing a global search (//g, '') (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
+004 "replace method" performing a global search (//g, '') - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replace)
 
 
 ### 3. Installation
