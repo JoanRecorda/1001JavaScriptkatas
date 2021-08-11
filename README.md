@@ -1,4 +1,4 @@
-# 1001 katas Recordà
+# 1001 JavaScript katas Recordà
 ***
 This project contains different JavaScript katas I've been doing at https://www.codewars.com/users/Recorda and https://www.hackerrank.com/recorda
 
