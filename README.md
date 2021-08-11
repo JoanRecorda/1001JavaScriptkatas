@@ -35,6 +35,10 @@ It has been applied the following methods:
 
 005 "Math.ceil method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/ceil)
 
+006 "split() method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
+    "map() method - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+    ""
+
 ### 3. Installation
 
 NPM package and Jest library
