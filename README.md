@@ -40,6 +40,7 @@ It has been applied the following methods:
     What's the 's'?
     "join() method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
+
 ### 3. Installation
 
 NPM package and Jest library
