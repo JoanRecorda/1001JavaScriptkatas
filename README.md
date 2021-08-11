@@ -37,7 +37,8 @@ It has been applied the following methods:
 
 006 "split() method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split)
     "map() method - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-    ""
+    What's the 's'?
+    "join() method" - (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
 
 ### 3. Installation
 
